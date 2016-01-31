@@ -40,6 +40,10 @@ function cities(){
         {
             city: 'Middleton',
             population: 17442
+        },
+        {
+            city: 'Westby',
+            population: 2200
         }
     ];
 
